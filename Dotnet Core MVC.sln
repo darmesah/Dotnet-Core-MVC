@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet Core MVC", "Dotnet Core MVC\Dotnet Core MVC.csproj", "{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet Core MVC", "Dotnet Core MVC\Dotnet Core MVC.csproj", "{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyWebRazor_Temp", "BulkyWebRazor_Temp\BulkyWebRazor_Temp.csproj", "{0A3C485C-2616-44B6-BD21-AB67D1D62C2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3C485C-2616-44B6-BD21-AB67D1D62C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3C485C-2616-44B6-BD21-AB67D1D62C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3C485C-2616-44B6-BD21-AB67D1D62C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3C485C-2616-44B6-BD21-AB67D1D62C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
