@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.WebApp", "Dotnet Core MVC\Bulky.WebApp.csproj", "{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet Core MVC", "Dotnet Core MVC\DotNet Core MVC.csproj", "{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.DataAccess", "Bulky.DataAccess\Bulky.DataAccess.csproj", "{212C7738-7DB6-4AC3-9376-17D3EF0D2CBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.DataAccess", "Bulky.DataAccess\Bulky.DataAccess.csproj", "{212C7738-7DB6-4AC3-9376-17D3EF0D2CBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Models", "Bulky.Models\Bulky.Models.csproj", "{737E1F01-B25A-487E-8870-0B3C0CC9465E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.Models", "Bulky.Models\Bulky.Models.csproj", "{737E1F01-B25A-487E-8870-0B3C0CC9465E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulky.Utility", "Bulky.Utility\Bulky.Utility.csproj", "{B0B72AC2-FAD6-4BCF-BE26-A03145CDE6F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.Utility", "Bulky.Utility\Bulky.Utility.csproj", "{B0B72AC2-FAD6-4BCF-BE26-A03145CDE6F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
