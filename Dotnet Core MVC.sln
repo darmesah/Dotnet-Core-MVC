@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet Core MVC", "Dotnet Core MVC\DotNet Core MVC.csproj", "{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet_Core_MVC", "Dotnet Core MVC\Dotnet_Core_MVC.csproj", "{A2E1F834-6D68-4A72-949C-CFAFCD8BBA65}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky.DataAccess", "Bulky.DataAccess\Bulky.DataAccess.csproj", "{212C7738-7DB6-4AC3-9376-17D3EF0D2CBF}"
 EndProject
